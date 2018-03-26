@@ -17,7 +17,7 @@
   部署模型可输出评分
   评分卡支持查看评分的分布情况（图 类似于下图）
 
-![评分分布图](C:/Users/liyin/Desktop/learnBookNoteLYK/image/微信截图_20180326141131.png)
+![评分分布图](https://raw.githubusercontent.com/liyingkun1237/learnBookNoteLYK/master/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180326141131.png)
 
 - 非评分卡部分
   - 模型配置的交互方式建议修改为勾选不同模型后出现不同的寻优方式和模型配置
